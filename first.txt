@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 Hii Ayush here .
+=======
+story 19
+
+print("Hello World")
+if (x>5){
+console.log("Hello world ")
+}
+>>>>>>> Stashed changes
