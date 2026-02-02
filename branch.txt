@@ -1,0 +1,4 @@
+Hello
+
+num=int(input("Enter Your Number :"))
+print("Your number is :",num+1)
